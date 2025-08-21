@@ -47,7 +47,8 @@ Verify that the logged-in user can complete the full food ordering process – f
 ---
 
 ## Test data
-
+| Field | Value   |
+|-------|---------|
 | Sign in data | john.doe@google.com / 12345678  |
 | Dining option | Take Away  |
 | Payment   | test card: '4246 1111 0011 0101', 06/29, 976  |
